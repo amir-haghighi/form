@@ -15,9 +15,6 @@ body {
   transform: scale(1);
 }
 .wrapper {
-  width: 90%;
-  margin-right: 5%;
-  margin-left: 5%;
   padding: 1em;
   display: flex;
   flex-flow: row nowrap;
