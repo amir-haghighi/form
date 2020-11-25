@@ -88,11 +88,12 @@ select {
 }
 h1,
 legend {
-  font-family: "Indie Flower", cursive;
+  font-family: "Creepster", cursive;
   color: white;
   text-align: center;
-  font-weight: bold;
   font-size: 1.5rem;
+  color: rgb(255, 70, 70);
+  font-weight: normal;
 }
 h1 {
   font-size: 2.5rem;
